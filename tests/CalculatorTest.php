@@ -22,6 +22,7 @@
     	$this->calc->add('A',2);
     }
     /**
+     * This is test of assertions
      * @test
      */
     public function testAssertion(){
