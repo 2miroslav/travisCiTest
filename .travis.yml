@@ -2,5 +2,6 @@ language: php
 
 php:
   - "7.1.14"
-
+before_script:
+  - composer install
 script: phpunit --configuration phpunit.xml --coverage-text
