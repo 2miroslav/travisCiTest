@@ -6,4 +6,4 @@ before_script:
   - "curl -sSfL -o ~/.phpenv/versions/hhvm/bin/phpunit https://phar.phpunit.de/phpunit-5.7.phar"
   - "composer install"
 script:
-- "phpunit --configuration phpunit.xml --coverage-text"
+- "phpunit --configuration=phpunit.xml --coverage-text"
