@@ -4,4 +4,4 @@ php:
 before_script:
   - composer install --no-interaction
 script:
-  phpunit --configuration phpunit.xml
+  - vendor/bin/phpunit
