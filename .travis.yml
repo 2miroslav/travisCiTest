@@ -4,4 +4,4 @@ php:
 before_script:
   - composer install --no-interaction
 script:
-  phpunit --configuration phpunit.xml --coverage-text
+  phpunit --configuration phpunit.xml
