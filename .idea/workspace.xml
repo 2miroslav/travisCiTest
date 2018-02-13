@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96f0a43-01aa-4262-8c1e-313941bbdbce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -226,7 +221,7 @@
       <workItem from="1518462690537" duration="3688000" />
       <workItem from="1518474122508" duration="4910000" />
       <workItem from="1518537261153" duration="5230000" />
-      <workItem from="1518560420542" duration="136000" />
+      <workItem from="1518560420542" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="Add comments">
       <created>1518474218217</created>
@@ -382,11 +377,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518538895321</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="last set32">
+      <created>1518560563718</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1518560563718</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13964000" />
+    <option name="totallyTimeSpent" value="14107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="31" width="1280" height="713" extended-state="0" />
@@ -440,7 +442,8 @@
     <MESSAGE value="test 5" />
     <MESSAGE value="pridanie gitignore" />
     <MESSAGE value="last set" />
-    <option name="LAST_COMMIT_MESSAGE" value="last set" />
+    <MESSAGE value="last set32" />
+    <option name="LAST_COMMIT_MESSAGE" value="last set32" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
