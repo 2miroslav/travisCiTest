@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a96f0a43-01aa-4262-8c1e-313941bbdbce" name="Default" comment="last set3223sss">
+    <list default="true" id="a96f0a43-01aa-4262-8c1e-313941bbdbce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpunit.xml" afterPath="$PROJECT_DIR$/phpunit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/HelloTest.php" afterPath="$PROJECT_DIR$/tests/HelloTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
@@ -68,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/HelloTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -100,9 +99,9 @@
         <option value="$PROJECT_DIR$/tests/phpunit.php" />
         <option value="$PROJECT_DIR$/src/Hello.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/phpunit.xml" />
         <option value="$PROJECT_DIR$/tests/HelloTest.php" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -211,7 +210,7 @@
       <workItem from="1518537261153" duration="5230000" />
       <workItem from="1518560420542" duration="279000" />
       <workItem from="1518561061321" duration="100000" />
-      <workItem from="1518714522529" duration="4428000" />
+      <workItem from="1518714522529" duration="4613000" />
     </task>
     <task id="LOCAL-00001" summary="Add comments">
       <created>1518474218217</created>
@@ -388,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518718581249</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="last set3223sss">
+      <created>1518719085290</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1518719085290</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18635000" />
+    <option name="totallyTimeSpent" value="18820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="42" width="1280" height="713" extended-state="0" />
@@ -545,22 +551,6 @@
     <entry file="file://$PROJECT_DIR$/src/JomWeb/Calculator.php" />
     <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.php" />
     <entry file="file://$PROJECT_DIR$/tests/TestCalculator.php" />
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/phpunit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -589,6 +579,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
