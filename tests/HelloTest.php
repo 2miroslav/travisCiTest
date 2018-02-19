@@ -6,6 +6,6 @@ class HelloTest extends PHPUnit_Framework_TestCase{
 	}
 
 	public function testWorld(){
-		$this->assertSame('echoo',$this->hello->world());
+		$this->assertSame('world',$this->hello->world());
 	}
 }
