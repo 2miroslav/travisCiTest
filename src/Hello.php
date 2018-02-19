@@ -6,4 +6,7 @@ class Hello{
 	public function world(){
 		return 'world';
 	}
+	public function calculator($x,$y){
+	return $x+$y;
+	}
 }
