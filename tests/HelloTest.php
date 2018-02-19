@@ -11,4 +11,7 @@ class HelloTest extends PHPUnit_Framework_TestCase{
 	public function testCalculator(){
 		$this->assertEquals(5,$this->hello->calculator(3,2));
 	}
+	public function testReturnTrue(){
+		$this->assertEquals(true,$this->hello->returnTrue);
+	}
 }
