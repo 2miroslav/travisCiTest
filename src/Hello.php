@@ -9,4 +9,7 @@ class Hello{
 	public function calculator($x,$y){
 	return $x+$y;
 	}
+	public function returnTrue(){
+	return true;
+	}
 }
