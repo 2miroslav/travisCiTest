@@ -12,6 +12,6 @@ class HelloTest extends PHPUnit_Framework_TestCase{
 	*@covers Calculator
 	*/
 	public function testCalculator(){
-		$this->assertEqual(5,$this->hello->calculator(2,2))
+		$this->assertEqual(5,$this->hello->calculator(2,2));
 	}
 }
