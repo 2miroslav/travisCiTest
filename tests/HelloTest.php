@@ -9,6 +9,6 @@ class HelloTest extends PHPUnit_Framework_TestCase{
 		$this->assertSame('world',$this->hello->world());
 	}
 	public function testCalculator(){
-		$this->assertEqual(5,$this->hello->calculator(2,2));
+		$this->assertEquals(5,$this->hello->calculator(2,2));
 	}
 }
